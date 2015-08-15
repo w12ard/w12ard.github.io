@@ -1,7 +1,7 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink:           none
 relative_permalinks: true
 
 # Setup
@@ -25,8 +25,8 @@ sass:
 # About/contact
 author:
   name:              Aaron Kim
-  url:               http://ahkim.com
-  email:             ahkim@ahkim.com
+  url:               http://blog.ahkim.com
+  email:             info@ahkim.com
 
 # Custom vars
 version:             2.0.0
