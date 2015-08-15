@@ -9,7 +9,7 @@ title:               Aaron H. Kim
 tagline:             Fearless voyager
 url:                 http://blog.ahkim.com
 paginate:            1
-baseurl:             "http://w12ard.github.io"
+baseurl:             
 pages_list:       
   About: '/about'
   Archive: '/archive'
