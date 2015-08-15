@@ -1,8 +1,6 @@
 ---
 title: 퍼스의 어느 평범한 겨울 하루
 layout: post
-categories: 사는 얘기
-tags: 아빠의 로망
 ---
 <div>
   <p>
