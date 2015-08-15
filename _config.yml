@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Aaron H. Kim
 tagline:             Fearless voyager
-url:                 http://ahkim.com
+url:                 http://blog.ahkim.com
 paginate:            1
 baseurl:             "http://w12ard.github.io"
 pages_list:       
