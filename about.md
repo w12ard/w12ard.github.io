@@ -3,28 +3,6 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+안녕하세요. 저는 2009년에 퍼스로 이민와 살고 있는 IT 개발자입니다. 블로그는 부모님께 근황을 알릴 목적으로 시작했는데.. 이민 와서 살고 있는 저의 소식, 생각들을 하나둘 올리다보니 점점 호주 IT 이민 전문 블로그가 되어 가고 있는듯 합니다. 요즘은 블로그보다는 페이스북을 더 자주 하게 되면서 블로깅은 게을러졌는데요. 호스팅 서비스를 바꾸고, Jekyll + Github 블로그로 변환할 욕심이 생겨 이렇게 재단장 하게 되었습니다. 
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+저의 한국 이름은 김현수, 호주 이름은 Aaron 입니다. 이전 하기전에 블로그나 이민 카페에서 활동할때의 필명은 산티아고입니다. 대한 민국의 가장 흔하디 흔한 SI 개발자로 6년 개발자 생활하다가.. 이제 호주 개발자 생활도 어느새 6년을 채우고, 7년차에 접어들었습니다(2015년). 
