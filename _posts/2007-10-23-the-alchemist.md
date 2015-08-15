@@ -1,5 +1,5 @@
 ---
-title: '<The Alchemist> 내 인생의 소설'
+title: The Alchemist, 내 인생의 소설
 layout: post
 ---
 <div class="hreview ttbReview">
