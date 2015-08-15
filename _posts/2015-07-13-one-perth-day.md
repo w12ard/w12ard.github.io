@@ -1,11 +1,8 @@
 ---
 title: 퍼스의 어느 평범한 겨울 하루
-author: Santiago
 layout: post
-permalink: /?p=819
 categories: 사는 얘기
-tags:
-  - 아빠의 로망
+tags: 아빠의 로망
 ---
 <div>
   <p>
@@ -13,7 +10,7 @@ tags:
   </p>
   
   <p>
-    딸내미 첫 SUP 보드를 사줬어요. 제법 그럴듯 하죠? <img src="http://w12ard.github.io/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 딸내미들이랑 같이 나란히 스노클링하고, SUP 타고, 낚시하는게 저의 로망입니다.
+    딸내미 첫 SUP 보드를 사줬어요. 제법 그럴듯 하죠? :) 딸내미들이랑 같이 나란히 스노클링하고, SUP 타고, 낚시하는게 저의 로망입니다.
   </p>
   
   <p>
