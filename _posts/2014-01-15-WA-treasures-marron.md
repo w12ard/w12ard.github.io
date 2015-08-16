@@ -4,9 +4,7 @@ layout: post
 ---
 지난 주말에 Blackwood river 로 Bush Camping 을 다녀왔습니다. 전기도, 화장실도, 아무 캠핑 시설도 갖춰지지 않은 State forest 에 가서 하는 Bush Camping 은 레알 캠핑을 즐기는 또 다른 재미를 줍니다. 캠프 파이어만 하지 않는 한 합법적인 캠핑이지요. 물론 이 캠핑의 숨은 목적은 다름 아닌 Marron fishing 을 위해서였습니다. 마론? 그렇습니다. 바로 서호주의 보물 시리즈 세 번째, 오늘 소개드릴 먹거리가 되겠습니다. 흐흐흐~~
 
-<p lang="ko" style="text-align: center;">
-   <img class="aligncenter" alt="" src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-prn1/1012247_10151969933003248_1064116503_n.jpg" width="672" height="672" />
-</p>
+![](http://i.imgur.com/IKOu3RP.jpg)
 
 보물이라더니 어떻게 된 게 죄다 해산물이야? 하는 분들 계실 줄로 압니다.  하지만 마론은 사실 엄밀히 말해 해산물이 아닙니다. Freshwater Crayfish 의 한 종류거든요. 수산물인건 맞습니다.
 
@@ -30,15 +28,11 @@ layout: post
   이렇게 밤낮으로 이틀간 야영하며 잡았지만 소득은 많지 않았습니다. 제 낚시 친구들은 서호주 토박이로 22년째 같은 포인트에서 마론 낚시를 하는 사람들인데 10명이 가서 겨우 이만큼밖에 못잡은 것은.. 너무나 개체수가 명백히 줄어들고 있기 때문입니다.
 </p>
 
-<p style="text-align: center;">
-  <img class="aligncenter" alt="" src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/1528738_10151969933283248_1402635777_n.jpg" width="672" height="672" />
-</p>
+![](http://i.imgur.com/gFlro6Q.jpg)
 
 이유는 몇 가지 있지만 가장 큰 것은 역시 사람들의 욕심입니다. 이번 년도 시즌이 시작되자마자 첫 주말에 가서 잡는데 이렇게 개체수가 부족할 리 없거든요. 라이선스 홀더 한 명당 8마리까지만 잡을 수 있는데 시즌이 아닌 때 와서 레인져의 눈을 피해 허용량 이상을 잡는 꾼들이 있다는 얘기지요. 20년 전에는 두당 허용량이 20마리라 열 명이 와서 하루 밤새 200 마리는 너끈히 잡았다고 합니다.
 
-<p lang="ko" style="text-align: center;">
-   <img class="aligncenter" alt="" src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-prn1/t1/r270/1554373_10151969931728248_361393681_n.jpg" width="672" height="502" />
-</p>
+![](http://i.imgur.com/CNm8JCG.jpg)
 
 또 다른 짐작 가는 원인 중 하나는 바로 이 브림(한국에선 감성돔). 서호주에선 Freshwater 에도 Saltwater fish 가 삽니다. 강이 바다로 흐르기 마련이라 다 연결되어 있다지만 짠맛이 하나도 느껴지지 않는 강에 브림이며 테일러같은 짠물 고기가 이렇게 많이 잡히다니 허허.. 아무튼 22년 전에는 브림이 한마리도 없었고, 마론 천지였다고 해요. 어떤 이유가 됐든 브림이 이 강까지 올라와 개체수가 이렇게까지 불어나면서 마론을 먹어치우는 데 한 몫 단단힌 하게 된거죠. 덕분에 끼니마다 예상했던 마론 대신 브림은 시컷 먹었고, 이번주 내내 집에서도 저녁 반찬은 브림 튀김이었다지요.
 

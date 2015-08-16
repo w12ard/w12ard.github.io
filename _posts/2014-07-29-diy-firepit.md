@@ -12,11 +12,11 @@ layout: post
 
 그래서 다른 방법을 고민해보다 채택한 것이 바로 이 세탁기 드럼 파이어핏. 준비물은 폐 세탁기 드럼, 쇠다리 3개, 폐 타이어 휠(은 옵션). 전부 Local recycling centre 에 가서 공수했으며 총 제작 비용 단 10불!!
 
-<img class="aligncenter" src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xaf1/t1.0-9/10371563_10152263040353248_2557404999312432132_n.jpg" alt="" width="522" height="390" /><img class="aligncenter" src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xfp1/t1.0-9/10372789_10152263040248248_6785720753116919706_n.jpg" alt="" width="518" height="706" />
+![](http://i.imgur.com/0c4s1d7.jpg)
 
 이대로 쓰면 firepit 이고 위에 폐 타이어 드럼만 얹으면 bbq 로 탈바꿈합니다. 군밤 구워먹기 딲이죠.
 
-<img class="aligncenter" src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/10334446_10152259286603248_2225327686773597978_n.jpg" alt="" width="577" height="770" /><img class="aligncenter" src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/10367136_10152259166053248_6918473058971162514_n.jpg" alt="" width="578" height="789" />
+![](http://i.imgur.com/aiaun7W.jpg)
 
 요즘같이 추울때 뒷마당에 불피워놓고, 고기굽고, 군고구마, 군옥수수, 군밤 만들어 먹으면서 늦게까지 도란도란 얘기하다 자는 맛이 갠찮습니다. 아주 쉬우니 한번 해보시기 바랍니다. 아이들이 아주 좋아라 합니다. ^^
 

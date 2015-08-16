@@ -11,8 +11,7 @@ layout: post
 
 퍼스 스완리버인데요. 물도 깨끗하고, 실은 짠물이라 상주하는 돌고래도 가끔 보고, 배가 없이 일반적인 루트로는 결코 볼수 없는 경관, 자기만의 제티가 딸린 강변 근처 하우스들, 절벽, 해질녁이면 노을과 함께 물위로 반사되는 그림같은 풍경 등을 구경하기에 좋습니다. 스완리버라는 이름은 이 강에서 쉽게 볼 수 있는 블랙 스완, 검은 백조에서 따왔다고 합니다. 보시다시피 사람을 무서워하지 않는 친근한 새입니다
 
-<a href="http://w12ard.github.io/wp-content/uploads/2015/05/WP_20150502_009.jpg"><img class="aligncenter size-large wp-image-803" src="http://w12ard.github.io/wp-content/uploads/2015/05/WP_20150502_009-1024x575.jpg" alt="WP_20150502_009" width="695" height="390" /></a></p>
-</div>
+<a href="http://w12ard.github.io/wp-content/uploads/2015/05/WP_20150502_009.jpg"><img class="aligncenter size-large wp-image-803" src="http://w12ard.github.io/wp-content/uploads/2015/05/WP_20150502_009-1024x575.jpg" alt="WP_20150502_009" width="695" height="390" /></a>
 
 다음은 저를 결정적으로 SUP 의 세계로 이끈 동영상인데요. 제가 사는 곳에서도 가까운 메탐스풀에서 SUP 를 타고 파도 타는 영상입니다. 저는 언제나 저렇게 탈수 있을까요? ㅠㅠ 여름오기전에 빡시게 연습해둬야겠습니다.
 

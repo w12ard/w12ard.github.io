@@ -35,9 +35,3 @@ layout: post
     행운의 7, 올 한 해도 저와 제 가족의 이민 생활이 더 많이 배우고, 새롭게 받아들이고, 하지만 늘 고마운 한국적인 가치들과 조화를 이루는 한 해이길 기대해 봅니다.
   </p>
   
-  <p>
-    &#8212; 예전글 &#8212;<br /> <a title="이민온지 만 4년" href="http://blog.ahkim.com/?p=622" target="_blank">이민온지 만 4년</a><br /> <a title="시드니 정착 벌써 1년" href="http://blog.ahkim.com/?p=259" target="_blank">시드니 정착 벌써 1년</a><br /> <a href="http://blog.ahkim.com/?p=60" target="_blank">호주 갑니다</a>
-  </p>
-</div>
-
-&nbsp;
