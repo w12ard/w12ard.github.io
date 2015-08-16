@@ -1,6 +1,7 @@
 ---
 title: 퍼스의 어느 평범한 겨울 하루
 layout: post
+comments: True
 ---
 <div>
   <p>
