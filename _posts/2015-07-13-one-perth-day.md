@@ -1,7 +1,6 @@
 ---
 title: 퍼스의 어느 평범한 겨울 하루
 layout: post
-comments: True
 ---
 <div>
   <p>
@@ -51,26 +50,20 @@ comments: True
   <p>
     &nbsp;
   </p>
-  
-  <div id="fb-root">
-  </div>
-  
-  <p>
-  </p>
-  
-  <div class="fb-video" data-allowfullscreen="1" data-href="/Aaron.H.Kim/videos/vb.774253247/10153186835303248/?type=1">
-    <div class="fb-xfbml-parse-ignore">
-      <blockquote cite="https://www.facebook.com/Aaron.H.Kim/videos/10153186835303248/">
-        <p>
-          벼리 SUP 들고 같이 패들링 나간 첫날. 처음엔 중심잡기 편한 어른용 보드에 익숙해져 있다보니 자꾸 빠진다고 불평하더니.. 나중엔 곧잘 타게 됨.
-        </p>
-        
-        <p>
-          Posted by <a href="https://www.facebook.com/Aaron.H.Kim">Aaron Kim</a> on Saturday, 11 July 2015
-        </p>
-      </blockquote>
-    </div>
-  </div>
+   
+<div class="fb-video" data-allowfullscreen="1" data-href="/Aaron.H.Kim/videos/vb.774253247/10153186835303248/?type=1">
+<div class="fb-xfbml-parse-ignore">
+  <blockquote cite="https://www.facebook.com/Aaron.H.Kim/videos/10153186835303248/">
+	<p>
+	  벼리 SUP 들고 같이 패들링 나간 첫날. 처음엔 중심잡기 편한 어른용 보드에 익숙해져 있다보니 자꾸 빠진다고 불평하더니.. 나중엔 곧잘 타게 됨.
+	</p>
+	
+	<p>
+	  Posted by <a href="https://www.facebook.com/Aaron.H.Kim">Aaron Kim</a> on Saturday, 11 July 2015
+	</p>
+  </blockquote>
+</div>
+</div>
   
   <p>
     &nbsp;
