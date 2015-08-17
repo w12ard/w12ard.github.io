@@ -2,6 +2,8 @@
 <html lang="en">
   {% include google_analytics.html %}
   {% include head.html %}
+  <!-- my custom google search -->
+  {% include my_google_search.html %}
 
   <body>
 
@@ -14,6 +16,10 @@
 			&nbsp;&nbsp;&nbsp;
 			<small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
 		  {% endfor %}
+		  <!-- my custom google search -->
+		  <form onsubmit="my_search_google()" >
+  			<input type="text" id="my-google-search">
+		  </form>
         </h3>
       </header>
 
