@@ -1,7 +1,7 @@
 ---
 title: '케언즈 여행기 나머지날 &#8211; 피츠로이 아일랜드, 무어 리프'
 tags:
-- 케언즈
+- Cairns
 layout: post
 ---
 ![](http://i.imgur.com/2kv5bj1.jpg)
