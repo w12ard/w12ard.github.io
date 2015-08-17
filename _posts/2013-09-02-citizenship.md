@@ -33,27 +33,3 @@ layout: post
 호주의 Contractor 는 한국의 IT 프리랜서와 비슷하지만 조금 다르다. 호주의 퍼머넌트, 즉 정규직은 단어 그대로 퍼머넌트를 의미하지 않는다. 하다못해 공무원마저도 그렇다. 서구 사회의 고용 유연성이 얼마나 좋은가는 내가 첫 호주 직장에서 리던던시 당했던 경험을 비추어 알 수 있다. 사회적인 차원에서 정규직/비정규직 사이의 계급적 갈등따위도 없다. 그냥 선택일 뿐이다. 따라서 호주의 컨트랙트 vs 정규직은 완벽에 근접하게 대조가 가능하다. 연가, 병가, Superannuation, Training Opportunities, Health Insurance, Mobile bill, etc 전부 $ 로 환산해 대조 가능하다. 다음 사이트가 기본적인 것들은 포함시켜 계산해주므로 퍼머넌트 혹은 컨트랙트로 전환하려는 분들은 참조하자.
 
 참조 : <http://contractorpermie.com/>
-
-이제까지의 여정..
-
-2009년 4월 14일 : [호주 갑니다][3]  
-2009년 6월 20일 : [호주에서의 첫 직장  
-][4]2010년 4월 23일 : [시드니 정착, 벌써 1년&#8230;][5]  
-2010년 12월 24일 : [박스 두개..][6]  
-2010년 6월 22일 : [둘째 주리 탄생][7]  
-2011년 2월 4일 : [가방 하나로 시작하는 이민의 삶][8]  
-2011년 6월 26일 : [개발자에서 컨설턴트로.. 좋거나 혹은 나쁘거나][9]  
-2013년 4월 23일 : [이민온지 만 4년][10]
-
-&nbsp;
-
- [1]: http://w12ard.github.io/wp-content/uploads/2013/09/australia_face.jpg
- [2]: http://britishexpats.com/wiki/Pros_and_Cons_to_Getting_Australian_Citizenship
- [3]: http://blog.ahkim.com/?p=60
- [4]: http://blog.ahkim.com/?p=148
- [5]: http://blog.ahkim.com/?p=259
- [6]: http://blog.ahkim.com/?p=268
- [7]: http://blog.ahkim.com/?p=263
- [8]: http://blog.ahkim.com/?p=271
- [9]: http://blog.ahkim.com/?p=497
- [10]: http://blog.ahkim.com/?p=622

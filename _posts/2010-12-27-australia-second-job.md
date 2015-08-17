@@ -9,7 +9,3 @@ layout: post
 시드니에서 보고 기술 인터뷰는 멜번에서부터 전화를 통해 1시간 동안 치뤄졌다. 
 
 호주 회사들은 채용이 확정된 후 전문 업체를 통해 background check 을 하는데 로컬 경력인 경우 확인하기도 쉽다. background check 요구 사항은 회사들마다 다른 데 로컬 금융 업체였던 첫 직장은 5년간의 히스토리(해외)를 모조리 확인한 반면, 미국계 다국적 IT 컨설턴시인 둘째 직장은 직전 경력, 학위만 확인했다. 하지만 호주에선 컨설턴트로 클라이언트 사이트에 가도(Contractor도 마찬가지).. 죄다 background check 을 한다고 한다. 
-
-== 연관글 ==  
-<a href="http://blog.ahkim.com/entry/%EB%B0%95%EC%8A%A4-%EB%91%90-%EA%B0%9C" target="_blank">2010/12/24 &#8211; [&#8230;직장 생활] &#8211; 박스 두 개..</a>  
-<a href="http://blog.ahkim.com/entry/%ED%98%B8%EC%A3%BC%EC%97%90%EC%84%9C%EC%9D%98-%EC%A0%95%EB%A6%AC-%ED%95%B4%EA%B3%A0" target="_blank">2010/12/24 &#8211; [&#8230;직장 생활] &#8211; 호주에서의 정리 해고</a>
