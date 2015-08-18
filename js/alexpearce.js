@@ -78,7 +78,7 @@ var layoutResultsPage = function(property, value, posts) {
   if ($container.length == 0) return;
   
   // Update the header
-  var str = majusculeFirst(property) + " Listing for ¡®" + majusculeFirst(value) + '¡¯';
+  var str = majusculeFirst(property) + " Listing for â€˜" + majusculeFirst(value) + 'â€™';
   $container.find('h1').text(str);
   
   // Loop through each post to format it
