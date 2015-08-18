@@ -4,12 +4,6 @@ tags:
 - Cairns
 layout: post
 ---
-<div id="toc"><p class="toc_title">목차</p></div>
-
-## Test ##
-### test ###
-#### test ####
-## Test2 ##
 
 ![](http://i.imgur.com/2kv5bj1.jpg)
 
