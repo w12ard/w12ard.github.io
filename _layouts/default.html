@@ -2,26 +2,59 @@
 <html lang="en">
   {% include google_analytics.html %}
   {% include head.html %}
+<!DOCTYPE html>
+<html lang="en-us">
+  {% include google_analytics.html %}
+  {% include head.html %}
 
   <body>
-      {% include sidebar.html %}
-      
-      <div class="content container">
+    {% include sidebar.html %}
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+            <small>{{ site.tagline }}</small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
         {{ content }}
 	{% include comments.html %}
       </div>
-  </body>
+    </div>
 
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-  <!-- tag, category search -->
-  <script src="/js/alexpearce.js"></script>
-  <!-- TOC Generator -->
-  <script src="/js/jquery.toc-1.1.4.min.js"></script>
-  <!-- TOC Generator -->
-  <script>
-     $('#toc').toc({exclude: 'h1, h6', autoId: true});
-  </script>
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <!-- tag, category search -->
+    <script src="/js/alexpearce.js"></script>
+    <!-- TOC Generator -->
+    <script src="/js/jquery.toc-1.1.4.min.js"></script>
+    <!-- TOC Generator -->
+    <script>
+       $('#toc').toc({exclude: 'h1, h6', autoId: true});
+    </script>
   </body>
 </html>
-
