@@ -22,7 +22,9 @@
         </div>
       </div>
 
-      <div class="container content">
+      <div class="entry-content" id="entry-content1">
+	<b><span style="font-size: large;">Â÷·Ê</span></b>
+	<div id="toc"></div>
         {{ content }}
 	{% include comments.html %}
       </div>
@@ -47,14 +49,14 @@
         }, false);
       })(document);
     </script>
+    <!-- jquery -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-    <!-- tag, category search -->
-    <script src="/js/alexpearce.js"></script>
-    <!-- TOC Generator -->
+    <!-- TOC Generator JS -->
     <script src="/js/jquery.toc-1.1.4.min.js"></script>
+
     <!-- TOC Generator -->
     <script>
-       $('#toc').toc({exclude: 'h1, h6', autoId: true});
+         $('#toc').toc({exclude: 'h1, h2, h6', context: '#entry-content1', autoId: true});
     </script>
   </body>
 </html>
