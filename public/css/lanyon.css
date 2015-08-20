@@ -561,3 +561,22 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+div#toc ul {
+    list-style: none;
+}
+
+div#toc ul a {
+    border-bottom: none !important;
+    color:#0000EE;
+}
+
+div#toc ul li ul {
+    margin-bottom: 0.75em;
+    border:none;
+}
+
+div#toc ul li ul li ul {
+    margin-bottom: 0.25em;
+    border:none;
+}
