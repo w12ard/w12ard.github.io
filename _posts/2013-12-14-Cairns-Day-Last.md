@@ -1,9 +1,10 @@
 ---
-title: '케언즈 여행기 나머지날 &#8211; 피츠로이 아일랜드, 무어 리프'
+title: '케언즈 여행기 나머지날 - 피츠로이 아일랜드, 무어 리프'
 tags:
 - Cairns
 layout: post
 ---
+### 다시 도전, 그레이트 배리어 리프 ###
 
 ![](http://i.imgur.com/2kv5bj1.jpg)
 
@@ -19,8 +20,11 @@ layout: post
 
 무어 리프, 피츠로이 아일랜드에서 찍었던 사진, 동영상을 묶어 편집해 봤습니다. 인터넷 속도가 허락하는 한 가급적 HD 화질로 보시길 권장합니다.
 
+### 피츠로이 아일랜드 + 무어 리프 ###
 
 <iframe src="//www.youtube.com/embed/So-S0WV52eg" width="560px" height="315px" frameborder="0" scrolling="no" allowfullscreen=""></iframe>
+
+### 머드 크랩 ###
 
 케언즈까지 와서 머드 크랩을 꼭 먹어봐야 할 것 같아 돌아오기 전에 여기서 가장 유명하다는 시푸드 레스토랑 Barnacle Bill&#8217;s Seafood Inn 에 가서 점심을 했는데요.
 

@@ -2,25 +2,17 @@
 title: 또 하나의 이정표, 호주 시민이 되다
 layout: post
 ---
-[<img class="aligncenter size-full wp-image-654" alt="australia_face" src="http://w12ard.github.io/wp-content/uploads/2013/09/australia_face.jpg" width="426" height="327" />][1]
+<img class="aligncenter size-full wp-image-654" alt="australia_face" src="http://w12ard.github.io/wp-content/uploads/2013/09/australia_face.jpg" width="426" height="327" />
 
 9월 2일, 오늘은 특별한 날이다. Citizenship ceremony 를 하고 시민권을 받는 날이기도 하고, 지난 1년 4개월간 Long term contractor 로 일했던 지금의 회사에서 이번엔 Permanent employee 로 근무 형태를 바꿔 출근하는 첫 날이기도 하다. 우연의 일치지만 묘하게 의미있게 느껴진다. 그래서 기념글을 남기기로 했다.
 
 사실 시민권과 영주권의 차이는 그닥 크지 않다. 호주에만 계속 살 경우, 오히려 투표의 의무만 주어진다고 봐도 된다(시민권자가 투표 안하면 벌금 맞는다). 지난 한국 대선때 퍼스에는 투표소가 없어 멜번까지 주말 비행기 타고 다녀왔을 정도로 해외에 살고는 있지만 나는 여전히 한국인이라는 자각을 가진 (이민 1세대가 대개 그렇듯) 내가 이런 결정을 내린건..
 
-<ol style="list-style-type: decimal;">
-  <li>
-    영주 비자를 갱신하지 않아도 된다. 이건 내가 언제 또 방랑벽이 도져 미국이나 영국으로 가서 살게 된다면 돌아올때 비자 문제를 걱정하지 않아도 된다는 뜻이다.
-  </li>
-  <li>
-    연방 정부 프로젝트에 참여할 수 있다. 캔버라에는 연방 정부가 주재하는 수많은 IT 프로젝트가 있다. 단, 시민권자만 지원 가능하다. 지금은 생각없지만 언제든 가게 될때를 위해 자격이 필요하다.
-  </li>
-  <li>
-    호주 시민권자는 미국과의 비자 협정 때문에 비교적 쉽게? 갈 수 있다. H1B 가 아니라 E3 를 받으면 된다.
-  </li>
-</ol>
+- 영주 비자를 갱신하지 않아도 된다. 이건 내가 언제 또 방랑벽이 도져 미국이나 영국으로 가서 살게 된다면 돌아올때 비자 문제를 걱정하지 않아도 된다는 뜻이다.
+- 연방 정부 프로젝트에 참여할 수 있다. 캔버라에는 연방 정부가 주재하는 수많은 IT 프로젝트가 있다. 단, 시민권자만 지원 가능하다. 지금은 생각없지만 언제든 가게 될때를 위해 자격이 필요하다.
+- 호주 시민권자는 미국과의 비자 협정 때문에 비교적 쉽게? 갈 수 있다. H1B 가 아니라 E3 를 받으면 된다.
 
-참조 : [http://britishexpats.com/wiki/Pros\_and\_Cons\_to\_Getting\_Australian\_Citizenship][2]
+참조 : http://britishexpats.com/wiki/Pros\_and\_Cons\_to\_Getting\_Australian\_Citizenship
 
 이와 같은 실리적인 이유가 조금 있으나 사실 취득하지 않는다고 해도 약간 불편할 뿐이다. 한국이 군대 문제로 완전한 이중 국적을 허용하지 않기 때문에 그 뿐이라면 굳이 한국 국적을 포기하진 않았을 거다. 군대 다녀오는 2년 2개월간 매달 단돈 몇천원에 담배 몇 보루 받아가며 20대 황금기의 일부를 바쳤는데 포기하기 억울하지 않을리 없다.
 
