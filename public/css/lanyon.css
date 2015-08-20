@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
  * Center the page content.
  */
 
-.container {
+.entry-content {
   max-width: 28rem;
 }
 @media (min-width: 38em) {
@@ -560,4 +560,23 @@ a.pagination-item:hover {
 /* Only one tweak for a reverse layout */
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
+}
+
+div#toc ul {
+    list-style: none;
+}
+
+div#toc ul a {
+    border-bottom: none !important;
+    color:#0000EE;
+}
+
+div#toc ul li ul {
+    margin-bottom: 0.75em;
+    border:none;
+}
+
+div#toc ul li ul li ul {
+    margin-bottom: 0.25em;
+    border:none;
 }
