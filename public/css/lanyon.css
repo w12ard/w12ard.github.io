@@ -72,9 +72,15 @@ h1, h2, h3, h4, h5, h6 {
  * Center the page content.
  */
 
-.entry-content {
-  max-width: 28rem;
+.entry-content h3 {
+    background-color: #F3F7FF;
+    border-bottom: 1px solid #CDCDCD;
+    padding-bottom: 0.2em;
+    padding-top: 0.1em;
+    text-decoration: none !important;
+    margin-top: 25px !important;
 }
+
 @media (min-width: 38em) {
   .container {
     max-width: 32rem;
