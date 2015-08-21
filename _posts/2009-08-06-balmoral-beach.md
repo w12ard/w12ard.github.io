@@ -1,10 +1,10 @@
----
+D---
 title: 발모렐 비치에 가다
 layout: post
 ---
 지난번 맨리 비치는 혼자 다녀왔고, 호주 온지 언젠데 그 좋다는 비치 한 번 안데려 가느냐는 처자식의 성화에 고민 좀 해보다가 발모렐 비치를 선택했다. 
 
-<img src="http://w12ard.github.io/wp-content/uploads/1/cfile5.uf.20709D124A7AB0AA3FB2BC.jpg" class="aligncenter" width="470" height="353" alt="" filename="100_0808.jpg" filemime="" /><img src="http://w12ard.github.io/wp-content/uploads/1/cfile5.uf.18351E274A7AAC233EC631.jpg" class="aligncenter" width="470" height="353" alt="" filename="100_0815.jpg" filemime="" /><img src="http://w12ard.github.io/wp-content/uploads/1/cfile3.uf.12351E274A7AAC263FFEF2.jpg" class="aligncenter" width="470" height="353" alt="" filename="100_0807.jpg" filemime="" /><img src="http://w12ard.github.io/wp-content/uploads/1/cfile3.uf.12351E274A7AAC263FFEF2.jpg" class="aligncenter" width="470" height="353" alt="" filename="100_0807.jpg" filemime="" /><img src="http://w12ard.github.io/wp-content/uploads/1/cfile5.uf.18351E274A7AAC233EC631.jpg" class="aligncenter" width="470" height="353" alt="" filename="100_0815.jpg" filemime="" /><img src="http://w12ard.github.io/wp-content/uploads/1/cfile5.uf.18351E274A7AAC233EC631.jpg" class="aligncenter" width="470" height="353" alt="" filename="100_0815.jpg" filemime="" /><img src="http://w12ard.github.io/wp-content/uploads/1/cfile5.uf.18351E274A7AAC233EC631.jpg" class="aligncenter" width="470" height="353" alt="" filename="100_0815.jpg" filemime="" /><img src="http://w12ard.github.io/wp-content/uploads/1/cfile5.uf.18351E274A7AAC233EC631.jpg" class="aligncenter" width="470" height="353" alt="" filename="100_0815.jpg" filemime="" />
+<img src="http://w12ard.github.io/wp-content/uploads/1/cfile5.uf.18351E274A7AAC233EC631.jpg" class="aligncenter" width="470" height="353" alt="" filename="100_0815.jpg" filemime="" />
 
 <div style="width: 480px" class="wp-caption aligncenter">
   <img src="http://w12ard.github.io/wp-content/uploads/1/cfile3.uf.12351E274A7AAC263FFEF2.jpg" width="470" height="353" alt="" filename="cfile3.uf.12351E274A7AAC263FFEF2.jpg" filemime="" />

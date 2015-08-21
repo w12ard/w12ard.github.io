@@ -22,9 +22,3 @@ layout: post
 독해 실력에 한계를 느껴 Extensive Reading을 한 번 해보려고, 내 수준에 맞는 영자지를 주문하려고 찾아봤다. <A href="http://www.koreaherald.co.kr/" target=_blank>코리아 헤럴드</A>나 <A href="http://www.koreatimes.co.kr/" target=_blank>코리안 타임즈</A>는 매일 오니 너무 부담스럽고 내 수준을 상회한다. 일단 일주일에 하나씩 온다는 영자지들 샘플 신청을 해뒀는데 <A href="http://www.kidstimes.net/" target=_blank>키즈 타임즈</A>, <A href="http://www.jherald.com/" target=_blank>쥬니어 헤럴드</A>, <A href="http://www.teentimes.org/" target=_blank>틴 타임즈</A>는 이미 도착했고, <A href="http://www.theedutimes.com/" target=_blank>에듀타임즈</A> 및 <A href="http://www.theedutimes.com/junior" target=_blank>쥬니어 에듀 타임즈</A>는 기다리는 중이다. <A href="http://www.thejournal.co.kr/" target=_blank>더저널</A>과 <A href="http://www.thejournal.co.kr/teens/" target=_blank>더 저널 포 틴</A>도 괜찮아 보이는데 경영이 어려워 신문이 중단되는 경우가 잦다고 해서 보류. 영어 도서관 하나 있었으면 좋겠는데 아무리 찾아봐도 서울엔 없다. 결국 현재로선 신문이 가장 경제적인 듯.
 
 <A href="http://en.wikipedia.org/wiki/Nip/Tuck" target=_blank>Nip Tuck</A>을 2시즌 중반까지 봤다. 가족이라는 주제에 대해 꽤 깊이 생각하게끔 만든다. 상처투성이일뿐인 가족도 가족일까? 아니면 가족이니까 상처를 감수하는 걸까?
-
-[2007/10/03 &#8211; [U r wat u read] &#8211; Patrick&#8217;s Book Club][1]  
-[2007/11/09 &#8211; [Life is Cool] &#8211; 듣고 싶은 세미나 &#8211; 성공적인 인맥관리와 와인의 활용][2]
-
- [1]: http://fairycat.tistory.com/56
- [2]: http://fairycat.tistory.com/106

@@ -4,29 +4,17 @@ layout: post
 ---
 지난 7월에 처음으로 Patrick&#8217;s Book Club이 만들어졌다.
 
-초기 멤버는 일단 간단하게 4명 <img src="http://w12ard.github.io/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+초기 멤버는 일단 간단하게 4명.
 
 아래 보이는 약간 우량한 친구가 내 5년지기 Patrick(LA에서 왔는데.. 나와 마찬가지로 TV Person이라 우린 미국 드라마 얘기만 시작했다하면 끝이 나질 않는다. 이 친구도 Oz의 왕팬으로 현재는 <The Wire>를 열심히 시청하며 나로 하여금 미드의 늪에서 빠져나오질 못하게 하고 있다.)
 
-<div style="width: 570px" class="wp-caption aligncenter">
-  <img src="http://w12ard.github.io/wp-content/uploads/1/ek200000000073.jpg" width="560" height="420" alt="사용자 삽입 이미지" />
-  
-  <p class="wp-caption-text">
-    Patrick, Moderator
-  </p>
-</div>
-
+<img src="http://w12ard.github.io/wp-content/uploads/1/ek200000000073.jpg" width="560" height="420" alt="사용자 삽입 이미지" />
+Patrick, Moderator
   
 왼쪽은 베트남계 미국인으로 이름은 Viet(Vietnam에서 따온 것이겠지? 이름이 너무 예쁘다. 나도 영어 이름을 Cory라고 개명할까?) 오른쪽은 Lily. 패트릭과 같은 오피스텔의 바로 앞 방에 살고 있으며 미국에 한국계 미국인 남자친구를 남겨두고 왔다. 한국에 온 이유가, 6년간이나 사귀어온 남자 친구와의 결혼을 앞두고 그의 나라와 문화를 좀 더 잘 이해하고 싶었기 때문이란다. 기특하기도 하지. 
 
-<div style="width: 570px" class="wp-caption aligncenter">
-  <img src="http://w12ard.github.io/wp-content/uploads/1/fk030000000065.jpg" width="560" height="746" alt="사용자 삽입 이미지" />
-  
-  <p class="wp-caption-text">
-    Viet, Lily
-  </p>
-</div>
-
+<img src="http://w12ard.github.io/wp-content/uploads/1/fk030000000065.jpg" width="560" height="746" alt="사용자 삽입 이미지" />
+Viet, Lily
   
 현재까지 진행한 우리 북클럽의 선정 도서는, 
 
@@ -118,13 +106,8 @@ layout: post
 
 멤버 추가~
 
-<div style="width: 610px" class="wp-caption aligncenter">
-  <img src="http://w12ard.github.io/wp-content/uploads/1/ek200000000076.jpg" width="600" height="800" alt="사용자 삽입 이미지" />
-  
-  <p class="wp-caption-text">
-    Christo
-  </p>
-</div>
+<img src="http://w12ard.github.io/wp-content/uploads/1/ek200000000076.jpg" width="600" height="800" alt="사용자 삽입 이미지" />
+Christo
 
 10월부터 Christo(South Africa)가 참가했습니다. 현재 용인에 거주하고 있음에도 불구하고 광명사거리역 근처에서 열리는 북클럽 모임에는 한번도 늦지 않고 참여해주고 있습니다. 알고보면 정말 감수성 풍부하고 낭만적인 문학 청년입니다. 이제 곧 1월 북클럽 모임에 제가 추천한 Joan이 참가하는데 Regular가 되면 다시 멤버 사진을 갱신토록 하겠습니다. ^^
 

@@ -4,8 +4,6 @@ layout: post
 ---
 재미있는 다큐를 소개할까 합니다. <a href="http://www.sbs.com.au/dirtybusiness/" target="_blank">Dirty business : How mining made Australia?</a>
 
-  
-
 최근 중국 성장 둔화에 따른 서호주 마이닝 붐이 끝나면서 호주 경제가 위기를 맞고 있는데요. 호주 역사에서 마이닝붐은 여러번 있었습니다. 침체 위기 때마다 벗어나게 해준건 언제나 또다른 마이닝붐이었죠. 마이닝이 지금의 호주를 만들었다고 해도 과언이 아닙니다.
 
 ![](http://i.imgur.com/r3l74tJ.jpg)

@@ -14,10 +14,10 @@ http://www.nrma.com.au/understanding-insurance/had-an-accident.shtml
 
 뭐 이것도 경험이지 싶다. 우리 와이프랑 아기 태우고 있을때 사고 안났길 천만 다행이다. 한번 겪어봤으니 또 사고 나면 당황하지 않아도 되겠지. 사고 났을 땐 흥분할 필요없이 아래 정보만 서로 주고받고 보험 회사에 전화하면 끝이다. 잘 기억해두자. 
 
-&nbsp;&nbsp;&nbsp; * date, time and location  
-&nbsp;&nbsp;&nbsp; * name and residential address of the person responsible  
-&nbsp;&nbsp;&nbsp; * licence and registration details  
-&nbsp;&nbsp;&nbsp; * make and model of cars involved in the accident  
-&nbsp;&nbsp;&nbsp; * insurance policy details, if known.
+- date, time and location  
+- name and residential address of the person responsible  
+- licence and registration details  
+- make and model of cars involved in the accident  
+- insurance policy details, if known.
 
 실은&#8230; 정식 차 사고만 오늘이 처음이지&#8230; 지금까지 몇 일 몰면서도 많은 위기를 넘겼다. 왼쪽 백미러로 주차되어 있던 차를 긁었는가 하면 라운드어바웃서 순서를 어기고 들어가 충돌 위기에 처하고 등등&#8230; 아우 눈물이 앞을 가린다. 내가 호주 안왔으면 운전 배울 생각을 했을까 싶은데&#8230; 여긴 정말 차가 필수라&#8230; 정말 싫지만 매일 꾸역꾸역 연습하고 있다. 그래도 하나 하나 넘기면서 많이 나아지고 있다. 정말이지 하루하루가 모험이다(가슴이 아닌 살이 떨리는).

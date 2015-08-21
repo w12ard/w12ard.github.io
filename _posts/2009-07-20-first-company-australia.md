@@ -11,6 +11,3 @@ layout: post
 참조 : <a title="[http://v.daum.net/link/2547073]로 이동합니다." target="_blank" href="http://v.daum.net/link/2547073">한국과는 너무 다른 호주의 계약직</a>
 
 사실 자뻑 증세가 있어 쉽게만 생각했는데 막상 겪어 보니 한국에서만 일했던 개발자가 호주에 이민와 바로 경력 인정받고 직장 잡는 게 쉬운 일만은 아니란 걸 깨달았다(뭐 그렇다고 대단히 어려운 걸 해냈다는 얘기는 아니고). 역시 깨져봐야 자기가 우물 안 개구리였다는 걸 깨닫는 법이다. 이제 또 한 고비 넘었다. <img src="http://w12ard.github.io/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
-
-== 연관글 ==  
-<a href="http://www.ahkim.com/entry/%ED%98%B8%EC%A3%BC-%EA%B0%91%EB%8B%88%EB%8B%A4" target="">2009/04/15 &#8211; [최근 소식] &#8211; 호주 갑니다</a>

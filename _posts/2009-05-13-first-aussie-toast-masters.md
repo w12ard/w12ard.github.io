@@ -7,7 +7,6 @@ layout: post
 <a title="[http://cafe.naver.com/eps2006.cafe?iframe_url=/ArticleList.nhn%3Fsearch.clubid=14631771%26search.menuid=66%26search.boardtype=L]로 이동합니다." target="_blank" href="http://cafe.naver.com/eps2006.cafe?iframe_url=/ArticleList.nhn%3Fsearch.clubid=14631771%26search.menuid=66%26search.boardtype=L">원문보기</a>
 
 
-
 [#M_더보기|접기| 
 
 방금 호주서 첫 토스트마스터 모임을 갖고 왔습니다. 참석한 모임은 Happy Hunters Hill 이라고 제가 지금 사는  

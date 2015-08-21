@@ -36,9 +36,3 @@ layout: post
 
   
 그러고보니 서울처럼 무선 네트워크가 발달한 곳에서 아이폰 쓰면 인터넷 정액제는 안써도 되겠다 싶다. 인프라는 어디보다도 훌륭한데 정작 폰을 들여오지 못하고 있다니 이 무슨 코미디일까? 하루 빨리 한국도 아이폰이 들어왔음 좋겠다. 
-
-== 연관글 ==  
-<a href="http://www.ahkim.com/entry/%EB%93%9C%EB%94%94%EC%96%B4-%EC%95%84%EC%9D%B4%ED%8F%B0-3GS%EA%B0%80-%EC%A7%80%EB%A5%BC%EA%B9%8C-%EB%A7%90%EA%B9%8C" target="">2009/06/26 &#8211; [OzTalking/&#8230;초기 정착] &#8211; 드디어 아이폰 3GS가&#8230; 지를까, 말까?</a>  
-<a href="http://www.ahkim.com/entry/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EA%B3%A0%EB%AF%BC-Nokia-6210-Nav" target="">2009/05/11 &#8211; [OzTalking/&#8230;초기 정착] &#8211; 모바일 고민, Nokia 6210 Nav</a>  
-<a href="http://www.ahkim.com/entry/Zune-Zune-30%EC%97%90%EC%84%9C-Audible%EC%98%A4%EB%94%94%EC%98%A4%EB%B6%81-%EC%A7%80%EC%9B%90-%EC%86%8C%EC%8B%9D" target="">2008/09/25 &#8211; [IT/&#8230;Microsoft] &#8211; Zune : Zune 3.0에서 Audible/오디오북 지원 소식!!!</a>  
-<a href="http://www.ahkim.com/entry/Zune-Windows-2008%EC%97%90%EC%84%9C-Zune-30-%EC%84%A4%EC%B9%98" target="">2008/09/18 &#8211; [IT/&#8230;Microsoft] &#8211; Zune : Windows 2008에서 Zune 3.0 설치</a>

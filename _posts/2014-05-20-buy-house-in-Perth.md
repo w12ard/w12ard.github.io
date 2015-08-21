@@ -2,15 +2,16 @@
 title: 퍼스에서 집사기
 layout: post
 ---
+<div id="toc"></div>
+
+### 지르다 ###
 이민온지 만 5년. 이제 갓 6년차가 된 지금, 하우스 푸어의 길로 들어선다. 박원순 시장 빚이랑 비슷하다. 매주 백만원씩의 모기지를 갚아야 한다. 적어도 하던 분야에서 자리 잡아 큰 고생은 겪지 않았지만 수입이 제한된 직장인에, 손벌릴 데 없는 외벌이 가장으로서 빡센건 사실이다.
 
 [<img style="background-image: none; float: left; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;" title="housePoor" src="http://w12ard.github.io/wp-content/uploads/2014/05/housePoor_thumb.jpg" alt="housePoor" width="393" height="281" align="left" border="0" />][1]
 
+### 왜 사야 하나.. ###
 사실 난 집을 소유한다는 것 자체에 큰 로망을 갖고 있지 않다. 집을 사서 큰 돈을 벌긴 커녕 애물단지가 되어버리는 걸 너무 가까이서 보고 자랐기 때문이다. 거의 매일이다시피 한시간 넘게 스카이프로 손녀딸내미들 재롱을 즐기시는 우리 부모님이 지금 당장 아들네 집에 살러 오지 못하는 것도 재건축된다고 7, 8년전부터 떠들기만 하고 소식없는 그 놈의 집 때문이 아닌가? 집은 꼭 자산이 되는 게 아니라, 애물단지도 되고, 웬수도 된다, 맞는 말이다.
 
-&nbsp;
-
-&nbsp;
 
 [<img style="background-image: none; float: right; padding-top: 0px; padding-left: 0px; margin: 2px 0px 5px 10px; display: inline; padding-right: 0px; border-width: 0px;" title="easymoving" src="http://w12ard.github.io/wp-content/uploads/2014/05/easymoving_thumb.jpg" alt="easymoving" width="391" height="294" align="right" border="0" />][2]
 
@@ -22,6 +23,7 @@ layout: post
 
 참조글의 주장이 내 평소 생활 신조에 가깝다. 난 현재의 욕망에 충실한 사람이다. 뭔가를 소유하는 것보다, 그 돈으로 여행을 떠나는게 차라리 더 가치있다고 생각한다.
 
+### 같이 살기 위해 ###
 하지만 둘째 태어나고, 어느새 한국 나이로 일곱살, 네살이 되면서.. 그리고 그런 아이들이랑 스카이프 통화하는 게 세상에서 제일 좋은 우리 부모님 나이드시는걸 보면서.. 모두 같이 살기 위해서라도 얼른 집을 사서.. 이 쾌적한 도시에 본격적으로 쭉~ 정착하는 게 어떨까 싶어졌다. 물론 렌트살면서 그렇게 못하란 법은 없지만 심리적인 이유가 컸다.
 
 [<img style="background-image: none; float: left; padding-top: 0px; padding-left: 0px; margin: 2px 10px 5px 0px; display: inline; padding-right: 0px; border-width: 0px;" title="byuleePrimary" src="http://w12ard.github.io/wp-content/uploads/2014/05/byuleePrimary_thumb.jpg" alt="byuleePrimary" width="384" height="287" align="left" border="0" />][3]겨우 일곱살인 우리 벼리는 지금 있는 학교 친구들과 헤어지는게 너무나 싫단다. 베스트 스쿨, 베스트 티쳐, 베스트 프렌즈~ 찬사가 한가득이다. 사실 같은 동네에 작년도 WA Best Primary 수상을 한 다른 초등학교가 있어서 이참에 그리로 옮길까 했으나.. 내 아이가 매긴 순위가 중요한가, 교육청에서 매긴 순위가 중요한가 생각해본 후 그냥 있기로 했다.
@@ -34,7 +36,7 @@ layout: post
 
 ‘THE SECRET OF HAPPINESS IS TO SEE ALL THE MARVELS OF THE WORLD, AND NEVER TO FORGET THE DROPS OF OIL ON THE SPOON.’ – Paulo Coelho <The Alchemist>
 
-**계산기 두드리기**
+### 계산기 두드리기 ###
 
 모기지를 얼마나 받을수 있는지와 별개로 과연 나에게 얼마나 부담이 될 것인지(년,월,주 단위), 몇년후엔 얼마나 갚았을 것인지, 얼마씩 더 갚으면 얼마나 더 빨리 모기지를 없앨수 있는지, 이자율이 미친듯이 올라가면 얼마나 더 내게 될런지, 그랬을때 Interest only 로 변환하면 버틸수 있을지, 집값 오름세를 몇 %로 잡았을 때 십년후 가격은 어느 정도일지, 종합해서 과연 렌트 사는 것보다 이게 경제적으로 나은 선택인지.. 등등 계산할 것이 많다.
 
@@ -53,23 +55,19 @@ principal + interest mortgage calculator    <https://www.moneysmart.gov.au/to
 
 [http://cafe.naver.com/arec/8944][8]
 
-<div id="scid:fb3a1972-4489-4e52-abe7-25a00bb07fdf:9fbaa4a8-46ea-4ba2-a2ee-b0b5ddba068a" class="wlWriterEditableSmartContent" style="float: none; margin: 0px; display: inline; padding: 0px;">
-  <p>
-    다운로드 받기 <a href="http://w12ard.github.io/wp-content/uploads/2014/05/Negative-Gearing-Worksheet_Sample.xlsx" target="_blank">Negative Gearing Worksheet</a>
-  </p>
-</div>
+다운로드 받기 <a href="http://w12ard.github.io/wp-content/uploads/2014/05/Negative-Gearing-Worksheet_Sample.xlsx" target="_blank">Negative Gearing Worksheet</a>
 
-**<span style="font-size: large;">위치 선정하기</span>**
+###위치 선정하기###
 
 Tips on where to live in Perth &#8211; [http://www.viacorp.com/perth-suburbs-compared.html][9]
 
 링크를 참조하면 퍼스 인근 서버브별 범죄율 순위라던지, 학교 순위 찾기라던지, 시티까지의 교통 시간 거리라던지 좋은 정보가 많으므로 아직 딱히 선호 지역이 없는 경우 참조하면 좋을 듯 하다. 내 경우 다른 걸 다 포기하고서라도 절대 양보할 수 없는 한 가지 조건이 있었으니 그건 바로… 라이프 스타일. 직장이 있는 시티까지 자전거 출퇴근이 가능할 것 – 10km 이내. 가족이 제일 많은 시간을 가서 보내는 특정 비치로부터 10km 이내. 결국 살던 동네에서 알아보기로 했다.
 
-**주거 형태 결정하기**
+###주거 형태 결정하기###
 
 원하는 이상적인 형태는 1. 부모님 모실 공간 확보 2. 아이들 놀기 좋은 뒷마당 3. 보트 파킹이 가능한 앞마당 4. 수영장이었기 때문에 땅이 큰 4 베드룸 하우스로 결정했다. 그래니 플랫을 추가한다던가 하는 방법도 있으므로 뒷쪽으로 확장할 충분한 공간만 있다면 3 베드룸도 상관없다고 생각했다. 위치와 주거 형태는 양보가 불가능하다보니 대신 연식이 있는 집을 볼 수 밖에 없었다. 새로 지은 집들은 건물이 깔끔한 대신 시티나 내가 선호하는 비치에서 멀어지거나, 땅이 작았다. 지역은 근교 서버브로만 한정하고 오래됐지만, 상태 양호하고, 위치가 좋은 집을 우선적으로 봤다.
 
-**나를 도와줄 전문가 확보하기**
+###나를 도와줄 전문가 확보하기###
 
 호주는 신용 사회다. 신뢰할 수 있는 전문가를 찾는 것은 정말 중요하다. 그래서 일단 찾으면 수수료가 좀 비싸도, 같은 주에 있지 않아도 꾸준히 이용하는 편이다. 여기서 생활하는 동안 회계사만 세번 바꿨고, 집을 사면서는 모기지 브로커 세번, 세틀먼트 오피서 한번 바꿨다. 내 기준의 좋은 전문가란 1. 일단 연락이 수월해야 하고, 2. 작은 질문에도 귀찮아 하지 않고 답변을 줘야 하며, 3. 정직해야 한다. 얼마나 잘 하는가? 는 어차피 내가 가늠하기 어렵다. 일단 그 분야의 라이센스가 있는 사람들이라면 당연히 해당 주제에 대해 나보다야 잘 알테고, 위 세가지만 부합하면 경험상 좋은 파트너가 될 수 있다. 호주에선 한국처럼 싸고 질좋은 공산품을 기대하기 힘들다. 사람도 마찬가지다.
 
@@ -87,7 +85,7 @@ Tips on where to live in Perth &#8211; [http://www.viacorp.com/perth-suburbs-com
 
 내가 이용한 회계사(멜번), 모기지 브로커(시드니), 페스트 인스펙터(퍼스)는 한국분이었고 세틀먼트 오피서(퍼스), 빌딩 인스펙터(퍼스)는 호주 업체였다. 나름 검증 끝냈으니 소개 필요하시면 쪽지 하시라.
 
-**집 보러 다니기**
+###집 보러 다니기###
 
 그다지 즐거운 과정이 아니었다. 마음에 드는 위치, 마음에 드는 집은 언제나 예산을 넘어섰고, 어느 하나라도 빠지는 집은 확신이 안갔다. 집값을 몇만불씩 깎았다느니 하는 후기도 있고, 나름대로 호주 부동산 책을 세권쯤 읽고 난 후라 처음엔 나도 그렇게 해볼 심산으로 나섰으나… 인기가 없어 마켓에 오래 나와 있는 집들 말고, 내가 살고 집은 남들도 맘에 들어했기 때문에 깎는다는 것은 현실적으로 불가. 나중엔 Asking price 에서 만불 더 부르고, 이만불 더 불러도 경쟁에서 밀리곤 했다.
 
@@ -97,7 +95,7 @@ Tips on where to live in Perth &#8211; [http://www.viacorp.com/perth-suburbs-com
 
 이후로 나는 마켓에 나온지 3주 이상 된 집은 아예 인스펙션을 가지 않았다. 인기있는 집은 거의 대부분 첫 인스펙션 후 Asking price 를 상회해서 팔리기 때문이다. 누구나 사려는 집이 좋은집이다. 안팔리는 집은 고로, 좋은 집이 아니다. 간혹 괜찮은 집인데 가격을 너무 높게 써놔서 안팔리는 경우도 있지만 바겐을 고르겠다는 생각은 이미 포기했다. 그러다가 결국….
 
-**저지르기**
+###저지르기###
 
 [<img style="background-image: none; float: left; padding-top: 0px; padding-left: 0px; margin: 2px 10px 5px 0px; display: inline; padding-right: 0px; border-width: 0px;" title="backyard" src="http://w12ard.github.io/wp-content/uploads/2014/05/backyard_thumb.jpg" alt="backyard" width="396" height="298" align="left" border="0" />][11]
 
@@ -107,19 +105,19 @@ Tips on where to live in Perth &#8211; [http://www.viacorp.com/perth-suburbs-com
 
 전문 Valuation 하는 사람을 데려다 집을 보여준 후 적정 가격을 묻는게 가장 좋겠지만 RPData, OnTheHouse 등을 통해서 대략적인 예상 가격을 뽑아볼 순 있다.
 
-**이사하기**
+###이사하기###
 
 아주 꼼꼼하게 작성된 체크리스트이므로 프린트해서 하나씩 체크해가며 준비하면 된다. 오퍼 넣고 대략 6주-8주 정도 기간이 있다. 론 파이널 어프루벌을 받는다던가, 이삿짐 센터 예약을 해놓는다던가, 전기/가스/전화/인터넷 이동 신청, 주소지 변경이라던가 할 일이 아주 많다.
 
 [http://advice.realestateview.com.au/wp-content/uploads/2011/06/Moving-Checklist.pdf][12]
 
-**마음 비우고 살기**
+###마음 비우고 살기###
 
 아무래도 연식 있는 집이다 보니 막상 살기 시작하자 인스펙션할 땐 몰랐던 문제점들이 속속 드러난다.  아버지가 집수리를 직업으로 하셨고, 그래서 이런 저런 것들을 만들고, 고치고 하는 걸 보며 자랐는데 정작 나는 할 줄 아는게 아무것도 없다. 멘붕을 뒤로하고 앞마당, 뒷마당의 잔디를 깎고, 씨없는 귤나무를 사다 심고, 새는 수도꼭지도 고치고, 깨진 기와도 갈면서 하나, 둘 배워가고 있다.  어쩌면 이런게 Joy of home ownership 이 아닌가 싶다. 어찌됐든 이젠 내 맘대로 개조하고, 돌볼 수 있으니 정이 간다.
 
 재미있는건 사고 나서도 계속해서 시장에 관심이 가더라는 점이다. 비슷한 스펙의 다른집들은 얼마에 팔리는지. 그 짧은 기간 내에 올랐는지, 떨어졌는지.. 그러다 그만뒀다. 어차피 부동산 투자로 큰 돈 벌려던 것도 아니고, 10년 내 팔 것도 아니니까. 목표는 50대가 되기 전에 갚아 버리는 거지만 뭐 좀 늦어지면 늦어지는거지 어쩌겠는가? 렌트 스트레스 벗어나자마자 모기지 스트레스에 눌려 살 생각은 없다. 여행도 가고, 술도 마시고, 할 거 다 하며 살아야지. 물론 홀리데이 하우스 빌릴꺼 텐트 치고 자고, 한인 레스토랑 가서 소주 마실거 뒷마당에서 비비큐에 와인 마신다던가 하는 식의 변화는 필요하겠지. 호주 생활 6년차. 그런건 익숙하다.
 
-**마지막으로.. 아직 렌트살 때 꼭 해봐야 하는거**
+###마지막으로.. 아직 렌트살 때 꼭 해봐야 하는거###
 
 나도 다 안다. 한국 이민자들이 호주에서 집을 사는 이유중 첫째로 꼽는 이유가 렌트 옮겨 다니기 귀찮아서라는거. 하지만 렌트 살 때 좋다는 동네, 부자 동네, 해변가 동네, 출퇴근하기 좋은 동네 미리 안살아 보면 영영 못 살아 보게 될 수도 있다. 같은 도시라도 사는 동네에 따라 라이프 스타일이 크게 달라질 수 있는데 이걸 느껴보지 못한채 한 군데만 살다 보면 시야가 좁아진다.  그러니 집을 사기전에 가급적 여기저기 많이 살아보길 권장한다. 가령 퍼스의 경우 스완 리버를 중심으로 남쪽과 북쪽의 스타일이 상당히 다른데 대부분의 한인들이 남쪽에 모여 살고, 그 중 상당수는 양쪽을 비교해볼 기회도 갖지 않고 그냥 처음 살기 시작한 곳에 정착한다. 물론 아이가 많거나, 짐이 많은 경우 이사가 워낙 번거로운게 아니므로 어렵지만 미혼이거나, 아이가 없거나, 한명뿐인 가족이라면 좀 더 여유를 가지고 렌트 살때만 누릴 수 있는 장점을 살렸으면 좋겠다.
 
