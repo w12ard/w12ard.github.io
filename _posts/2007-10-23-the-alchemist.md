@@ -42,29 +42,29 @@ To realize one&#8217;s destiny is a person&#8217;s only obligation.&#8221;
 
 특히 왕이 소년에게 들려주는 다음의 이야기는 내가 항상 잊지 않으려고 노력하는 인생의 지혜라고 할 수 있다. 
 > 
-> &#8220;A certain shopkeeper sent his son to learn about the secret of happiness from the wisest man in the world. The lad wandered through the desert for forty days, and finally came upon a beautiful castle, high atop a mountain. It was there that the wise man lived.
+> A certain shopkeeper sent his son to learn about the secret of happiness from the wisest man in the world. The lad wandered through the desert for forty days, and finally came upon a beautiful castle, high atop a mountain. It was there that the wise man lived.
 > 
-> &#8220;Rather than finding a saintly man, though, our hero, on entering the main room of the castle, saw a hive of activity: tradesmen came and went, people were conversing in the corners, a small orchestra was playing soft music, and there was a table covered with platters of the most delicious food in that part of the world. The wise man conversed with everyone, and the boy had to wait for two hours before it was his turn to be given the man&#8217;s attention.
+> Rather than finding a saintly man, though, our hero, on entering the main room of the castle, saw a hive of activity: tradesmen came and went, people were conversing in the corners, a small orchestra was playing soft music, and there was a table covered with platters of the most delicious food in that part of the world. The wise man conversed with everyone, and the boy had to wait for two hours before it was his turn to be given the man&#8217;s attention.
 > 
-> &#8220;The wise man listened attentively to the boy&#8217;s explanation of why he had come, but told him that he didn&#8217;t have time just then to explain the secret of happiness. He suggested that the boy look around the palace and return in two hours.
+> The wise man listened attentively to the boy&#8217;s explanation of why he had come, but told him that he didn&#8217;t have time just then to explain the secret of happiness. He suggested that the boy look around the palace and return in two hours.
 > 
-> &#8221; &#8216;Meanwhile, I want to ask you to do something,&#8217; said the wise man, handing the boy a teaspoon that held two drops of oil. &#8216;As you wander around, carry this spoon with you without allowing the oil to spill.&#8217;
+> &#8216;Meanwhile, I want to ask you to do something,&#8217; said the wise man, handing the boy a teaspoon that held two drops of oil. &#8216;As you wander around, carry this spoon with you without allowing the oil to spill.&#8217;
 > 
-> &#8220;The boy began climbing and descending the many stairways of the palace, keeping his eyes fixed on the spoon. After two hours, he returned to the room where the wise man was.
+> The boy began climbing and descending the many stairways of the palace, keeping his eyes fixed on the spoon. After two hours, he returned to the room where the wise man was.
 > 
-> &#8221; &#8216;Well,&#8217; asked the wise man, &#8216;did you see the Persian tapestries that are hanging in my dining hall? Did you see the garden that it took the master gardener ten years to create? Did you notice the beautiful parchments in my library?&#8217;
+> &#8216;Well,&#8217; asked the wise man, &#8216;did you see the Persian tapestries that are hanging in my dining hall? Did you see the garden that it took the master gardener ten years to create? Did you notice the beautiful parchments in my library?&#8217;
 > 
-> &#8220;The boy was embarrassed, and confessed that he had observed nothing. His only concern had been not to spill the oil that the wise man had entrusted to him.
+> The boy was embarrassed, and confessed that he had observed nothing. His only concern had been not to spill the oil that the wise man had entrusted to him.
 > 
-> &#8221; &#8216;Then go back and observe the marvels of my world,&#8217; said the wise man. &#8216;You cannot trust a man if you don&#8217;t know his house.&#8217;
+> &#8216;Then go back and observe the marvels of my world,&#8217; said the wise man. &#8216;You cannot trust a man if you don&#8217;t know his house.&#8217;
 > 
-> &#8220;Relieved, the boy picked up the spoon and returned to his exploration of the palace, this time observing all of the works of art on the ceilings and the walls. He saw the gardens, the mountains all around him, the beauty of the flowers, and the taste with which everything had been selected. Upon returning to the wise man, he related in detail everything he had seen.
+> Relieved, the boy picked up the spoon and returned to his exploration of the palace, this time observing all of the works of art on the ceilings and the walls. He saw the gardens, the mountains all around him, the beauty of the flowers, and the taste with which everything had been selected. Upon returning to the wise man, he related in detail everything he had seen.
 > 
-> &#8221; &#8216;But where are the drops of oil I entrusted to you?&#8217; asked the wise man.
+> &#8216;But where are the drops of oil I entrusted to you?&#8217; asked the wise man.
 > 
-> &#8220;Looking down at the spoon he held, the boy saw that the oil was gone.
+> Looking down at the spoon he held, the boy saw that the oil was gone.
 > 
-> &#8221; &#8216;Well, there is only one piece of advice I can give you,&#8217; said the wisest of wise men. **The secret of happiness is to see all the marvels of the world, and never to forget the drops of oil on the spoon.**
+> &#8216;Well, there is only one piece of advice I can give you,&#8217; said the wisest of wise men. **The secret of happiness is to see all the marvels of the world, and never to forget the drops of oil on the spoon.**
 
 내게 있어서 drops of oil on the spoon은 무엇을까? 사람마다 틀리겠지만, 내게 있어선 가족이 아닐까 싶다. 내 부모님, 토끼같은 마누라, 천사같은 이쁜 내 딸 벼리. 개인적인 꿈을 이루는 것도 중요하겠지만, 정말 잃어버리기 쉬운, 깨지기 쉬운 스푼위의 오일 방울과 같은 삶의 소중한 존재들을 잊어선 안될 것이다.
 
