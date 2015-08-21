@@ -570,7 +570,7 @@ div#toc {
   margin-bottom: 1em;
   width: auto;
   padding: 10px 20px;
-  float: right;
+  float: none;
 }
 div#toc ul {
   list-style: none;
