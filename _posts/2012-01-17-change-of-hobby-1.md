@@ -6,9 +6,7 @@ layout: post
 
 간만의 포스팅인데 오늘은 모처럼 가볍게~ 시드니에 살면서 다양해진 저의 취미 생활 몇 가지를 소개해 볼까 합니다.
 
-<p style="text-align: center;">
-  <a href="http://w12ard.github.io/wp-content/uploads/2012/01/166833_490454798247_3171672_n.jpg"><img class="aligncenter size-full wp-image-789" src="http://w12ard.github.io/wp-content/uploads/2012/01/166833_490454798247_3171672_n.jpg" alt="166833_490454798247_3171672_n" width="406" height="720" /></a>
-</p>
+<a href="http://w12ard.github.io/wp-content/uploads/2012/01/166833_490454798247_3171672_n.jpg"><img class="aligncenter size-full wp-image-789" src="http://w12ard.github.io/wp-content/uploads/2012/01/166833_490454798247_3171672_n.jpg" alt="166833_490454798247_3171672_n"/></a>
 
 ### 한국에서의 취미 ###
 서울을 주 근거지로 하는 대부분의 IT 종사자가 그렇듯, 한국에서의 제 취미는 주로 전자 제품 수집이었어요. 그 외 또 굳이 꼽아 보자면 컴퓨터 게임 정도가 있겠네요. 의지력이라던가, 자기 관리라던가 하는 단어와는 거리가 멀어서 게임은 아예 끊고 살다가 가끔 미치면 몇일씩 폐인이 되곤 했지요. ㅎㅎㅎ
@@ -22,55 +20,42 @@ layout: post
 그래서 일단 정착이 완료되고 나면 취미가 필요할 수 밖에 없어요. 사실 쉰다는 건 정말 중요한 행위잖아요? 하루 종일 말도 안통하는 나라에서 동료가 말하는 걸 못알아먹고 헛소리 나올까봐 귀 쫑긋 세우고 사는 것 자체로 스트레스 만땅 받습니다. 그러니까 누구나 취미를 가질 필요가 있어요.
 
 ### 호주에서의 첫 취미, 비비큐 ###
-<p style="text-align: center;">
-  <a href="http://w12ard.github.io/wp-content/uploads/2012/01/377205_10150403342498248_971118827_n.jpg"><img class="aligncenter size-full wp-image-792" src="http://w12ard.github.io/wp-content/uploads/2012/01/377205_10150403342498248_971118827_n.jpg" alt="377205_10150403342498248_971118827_n" width="960" height="717" /></a>
-</p>
+<a href="http://w12ard.github.io/wp-content/uploads/2012/01/377205_10150403342498248_971118827_n.jpg"><img class="aligncenter size-full wp-image-792" src="http://w12ard.github.io/wp-content/uploads/2012/01/377205_10150403342498248_971118827_n.jpg" alt="377205_10150403342498248_971118827_n"/></a>
 
 제가 호주에서 가장 먼저 즐기기 시작한건 바로.. 가족과 함께 하는 BBQ 였어요. 호주엔 사람들이 자주 찾는 공원, 비치마다 누구나 공짜로 쓸 수 있는 전기 BBQ 시설이 구비되어 있거든요. 삼겹살, 소세지, 캥거루 고기, 맥주 등등 싸들고 가서 애들은 잔디밭에 풀어놓고, 아빠들은 고기 굽고, 엄마들은 수다떨고.. 아.. 이게 바로 호주 생활의 여유구나 처음 느끼게 되는 순간이지요.
 
 ### 스피어피싱에 빠지다 ###
 그러다 물놀이에 빠지게 되었는데.. 다름 아닌 작살낚시(Spearfishing)에요. 회는 먹고 싶은데 항구 도시인 주제에 물고기 값이 너무 비싸서 시작했죠. 이 때 당시만 해도 낚시는 그냥 던져놓고 하염없이 앉아서 기다리기만 하는 지루한.. 시간 낭비라 생각해서 고려조차 안했구요. 물 속에 작살총을 들고 잠수해 들어가 물고기를 눈 앞에서 본다는 것 자체에 매력을 느꼈어요. 하지만 동시에 물에 대한 두려움도 컸죠. 그래서 스쿠버 다이빙 교육을 받고, 어드밴스드 PADI 까지 취득한 다음, 겨울 내내 매일같이 Gym 에 나가 열심히 수영을 연습 한 후에야&#8230; 마침내 작살 낚시를 시작할 수 있었지요.
 
-<p style="text-align: center;">
-  <a href="http://w12ard.github.io/wp-content/uploads/2012/01/325473_10150279493338248_7241491_o.jpg"><img class="aligncenter size-large wp-image-793" src="http://w12ard.github.io/wp-content/uploads/2012/01/325473_10150279493338248_7241491_o-768x1024.jpg" alt="325473_10150279493338248_7241491_o" width="695" height="927" /></a>
-</p>
+<a href="http://w12ard.github.io/wp-content/uploads/2012/01/325473_10150279493338248_7241491_o.jpg"><img class="aligncenter size-large wp-image-793" src="http://w12ard.github.io/wp-content/uploads/2012/01/325473_10150279493338248_7241491_o-768x1024.jpg" alt="325473_10150279493338248_7241491_o"/></a>
 
 이걸 시작한 후 다른 취미는 가질 시간도, 가치도 없다는 혼자만의 확신이 들만큼 빠져있었더랬어요. 하지만 얘기지 못한 변수가 있었으니 두둥~
 
 시드니의 날씨는 1년 내내 영하로 떨어지는 법이 없지만 겨울엔 그래도 제법 쌀쌀한데 집들이 다 더위만 막을 수 있게 지어놓고, 추위는 고려하질 않아서 자칫하면 감기에 걸리기가 쉬워요. 바로 지난 겨울, 저 역시 감기를 달고살다보니 물질하러 다닐 수가 없었답니다. ㅠㅠ
 
-<p style="text-align: center;">
-  <img class="aligncenter" src="http://sphotos-c.ak.fbcdn.net/hphotos-ak-ash3/131691_468540218247_2500000_o.jpg" alt="터지기 직전의 잠수복" width="737" height="553" />
-</p>
+<img class="aligncenter" src="http://sphotos-c.ak.fbcdn.net/hphotos-ak-ash3/131691_468540218247_2500000_o.jpg" alt="터지기 직전의 잠수복"/>
 
 엎친 데 덮친 격으로 야외 활동을 못하는 대신 매일 밤 치즈에 와인 마셨더니 살은 피둥 피둥 찌고 마침내 여름이 왔건만 잠수복이 몸에 들어가지 않는 사태가 벌어지더군요. 어떻게 껴 입긴 했는데 이게 또 체력을 무지 요구하는지라 조과가 작년만 못했어요. 한 번 바다에 나가면 다녀와서 그날 점심이나 저녁은 회를 마눌님께 대접해야 할 의무를 다하지 못하는 날이 많아지더군요.
 
-<p style="text-align: center;">
-  <a href="http://w12ard.github.io/wp-content/uploads/2012/01/168942_483528398247_568340_n.jpg"><img class="aligncenter size-full wp-image-794" src="http://w12ard.github.io/wp-content/uploads/2012/01/168942_483528398247_568340_n.jpg" alt="168942_483528398247_568340_n" width="720" height="537" /></a>
-</p>
+<a href="http://w12ard.github.io/wp-content/uploads/2012/01/168942_483528398247_568340_n.jpg"><img class="aligncenter size-full wp-image-794" src="http://w12ard.github.io/wp-content/uploads/2012/01/168942_483528398247_568340_n.jpg" alt="168942_483528398247_568340_n" /></a>
 
 ### 갯바위 낚시 ###
 
 그래서 요즘 새로이 시작한 게 바로.. 갯바위 낚시랍니다. 이 갯바위 낚시는 제가 원래 기존에 알고있던 일반적인 line fishing 과는 다르게 상당히 활동적이고, 적극적인 형태의 낚시더군요. 그래서 최근엔 낚시회에까지 가입해서 좀 제대로 배워보려는 중입니다. 최근 출조 모임에 따라 나가봤는데 네 명이서 대략 2시간 남짓한 시간동안 무려 17마리를 낚아내더군요. 그것도 잡고기 없이 굿사이즈로 드러머 14 마리, 스내퍼 2 마리, 트레발리 1마리. 여긴 정말 물 반, 고기 반인 걸까요?
 
-<p style="text-align: center;">
-  <img class="aligncenter" src="http://sphotos-c.ak.fbcdn.net/hphotos-ak-ash4/411700_10150553216588248_2053313868_o.jpg" alt="찌낚시의 위대함을 목격하다" width="737" height="553" />
-</p>
+<img class="aligncenter" src="http://sphotos-c.ak.fbcdn.net/hphotos-ak-ash4/411700_10150553216588248_2053313868_o.jpg" alt="찌낚시의 위대함을 목격하다" />
 
 ### 골프? ㄴㄴㄴ ###
 호주는 한국 남자들이 이민오면 하도 심심해서.. 골프 아니면 낚시 둘 중에 하나는 배워야 한다는 말이 있어요. 지인께서 골프를 저한테 전수해주시려고 무지 노력한 적도 있는데.. 평생 골놀이에 한번도 끌려 본 적이 없었던지라 이번에도 역시 마찬가지더군요.
 
-<p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-790" src="http://w12ard.github.io/wp-content/uploads/2012/01/401501_10150498122593248_1298476048_n.jpg" alt="401501_10150498122593248_1298476048_n" width="400" height="320" />
-</p>
+<img class="aligncenter size-full wp-image-790" src="http://w12ard.github.io/wp-content/uploads/2012/01/401501_10150498122593248_1298476048_n.jpg" alt="401501_10150498122593248_1298476048_n" />
+
 
 호주가 그 정도로 심심한 나라인가&#8230;? 라고 누가 묻는다면 저는 절대 아니올씨다라고 단언할 수 있어요. 시드니 하나만 보더라도 얼마나 많은 각종 스포츠나 문화 이벤트가 벌어지고 있는지 몰라요. 취미별로 가입할 수 있는 모임도 많고요. 그런데도 심심하다는건.. 적극성이 부족해서가 아닐까 조심스레 짐작해 봅니다.
 
 아직도 해보고 싶은게 너무 많은데 한 살, 두 살 나이만 먹고 있는 것 같아 슬퍼질 때가 있어요. 이미 어떤 취미는 이제사 갖기엔 너무 늦어버린 것 같기도 하고 말이죠. 그래도 이렇게 하나, 둘 새롭게 시도하고, 재미를 붙여나가는 취미 활동이 항상 즐거울수만은 없는 이민 생활의 고됨을 잊게 해주는 고마운 활력제가 되고 있어 다행이에요.
 
-<p style="text-align: center;">
-  <img class="aligncenter" src="http://sphotos-d.ak.fbcdn.net/hphotos-ak-ash4/458070_10150553309798248_402387399_o.jpg" alt="날로 일취월장하는 나의 회뜨는 솜씨!" width="896" height="665" />
-</p>
+<img class="aligncenter" src="http://sphotos-d.ak.fbcdn.net/hphotos-ak-ash4/458070_10150553309798248_402387399_o.jpg" alt="날로 일취월장하는 나의 회뜨는 솜씨!" />
 
 ### 일보다 더 중요한 휴식 ###
 
