@@ -1,5 +1,5 @@
 ---
-title: "How to Talk to Anyone, Anytime, Anywhere" King of Talk이 전하는 대화의 기술'
+title: How to Talk to Anyone, Anytime, Anywhere - King of Talk이 전하는 대화의 기술
 layout: post
 ---
 <div class="hreview ttbReview">
