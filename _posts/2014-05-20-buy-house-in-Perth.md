@@ -55,7 +55,7 @@ principal + interest mortgage calculator    <https://www.moneysmart.gov.au/to
 
 [http://cafe.naver.com/arec/8944][8]
 
-다운로드 받기 <postfile Negative-Gearing-Worksheet_Sample.xlsx</a>
+다운로드 받기 <postfile Negative-Gearing-Worksheet_Sample.xlsx></a>
 
 ###위치 선정하기###
 
