@@ -27,10 +27,17 @@ layout: post
 참조 : <http://contractorpermie.com/>
 
 2009년 4월 14일 : [호주 갑니다](http://blog.ahkim.com/my-way.html)
+
 2009년 6월 20일 : [호주에서의 첫 직장](http://blog.ahkim.com/first-company-australia.html)
+
 2010년 4월 23일 : [시드니 정착, 벌써 1년…](http://blog.ahkim.com/year-1-anniversary.html)
+
 2010년 6월 22일 : [둘째 주리 탄생](http://blog.ahkim.com/Julia-Kim.html)
+
 2010년 12월 24일 : [박스 두개..](http://blog.ahkim.com/out-with-boxes.html)
+
 2011년 2월 4일 : [가방 하나로 시작하는 이민의 삶](http://blog.ahkim.com/Life-from-a-suitcase.html)
+
 2011년 6월 26일 : [개발자에서 컨설턴트로.. 좋거나 혹은 나쁘거나](http://blog.ahkim.com/developer-to-consultant.html)
+
 2013년 4월 23일 : [이민온지 만 4년](http://blog.ahkim.com/4years-anniversary.html)
