@@ -36,3 +36,14 @@ layout: post
 ### 가자 닝갈루 리프로~
 
 이렇게 해서.. 다음 블로그 포스트는 닝갈루 리프 여행기가 되겠습니다. 하지만 그게 과연 언제가 될런지는.. ㅎㅎ
+
+
+### 지난 그레이트 배리어 리프 여행기
+
+[케언즈 여행기 첫날 - 포트 더글라스](http://blog.ahkim.com/Cairns-Day-1.html)
+
+[케언즈 여행기 둘째날 - 그레이트 배리어? 라군](http://blog.ahkim.com/Cairns-Day-2.html)
+
+[케언즈 여행기 셋째날 - 하늘을 날다](http://blog.ahkim.com/Cairns-Day-3.html)
+
+[케언즈 여행기 나머지날 - 피츠로이 아일랜드, 무어 리프](http://blog.ahkim.com/Cairns-Day-Last.html)
