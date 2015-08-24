@@ -40,3 +40,6 @@ validation-report.json
 
 # Folders to ignore
 node_modules
+
+# 500px-consumer-key
+500px-consumer-key
