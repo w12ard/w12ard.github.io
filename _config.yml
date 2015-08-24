@@ -10,7 +10,7 @@ relative_permalinks: true
 title:               Aaron H. Kim
 tagline:             Fearless voyager
 url:                 http://blog.ahkim.com
-paginate:            5
+paginate:            1
 encoding: 	     UTF-8
 pages_list:       
   About: '/about'
