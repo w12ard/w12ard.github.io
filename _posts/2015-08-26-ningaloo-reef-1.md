@@ -2,7 +2,7 @@
 title: 닝갈루 리프 여행기 1 - 칼바리
 layout: post
 ---
-<div id="toc"><b><span style="font-size: large;">차례</span></b></div>
+<div id="toc"></div>
 
 ### 여행 계획
 
