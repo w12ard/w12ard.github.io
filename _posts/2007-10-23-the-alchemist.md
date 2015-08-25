@@ -2,7 +2,7 @@
 title: The Alchemist, 내 인생의 소설
 layout: post
 ---
-<div id="toc"></div>
+<div id="toc"><b><span style="font-size: large;">차례</span></b></br></div>
 
 ### 내 인생의 책
 <div class="hreview ttbReview">

@@ -2,7 +2,7 @@
 title: 'Living Rich by Spending Smart: How to Get More of What You Really Want'
 layout: post
 ---
-<div id="toc"></div>
+<div id="toc"><b><span style="font-size: large;">차례</span></b></br></div>
 <img class="aligncenter" alt="" src="http://ecx.images-amazon.com/images/I/61rL37KaAjL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA278_PIkin4,BottomRight,-64,22_AA300_SH20_OU01_.jpg" width="300" height="300" />
 
 공짜 킨들북이 생기면 받아놨다가 생각나면 읽곤 하는데 그중 하나. 책에서 소개하는 실질적인 할인 정보 사이트나 하는 것들은 미국 기준이므로 쓸데 없지만 Spending Smart Philosophy 와 몇가지 원칙은 배울만 하다. 책을 읽은지 몇 달은 된듯 한데 그 중 몇 가지가 기억에 남아 내 소비 패턴을 조금 긍정적으로 바꿔놓은 면이 없지 않다.

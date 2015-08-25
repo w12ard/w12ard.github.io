@@ -2,7 +2,7 @@
 title: '개발자에서 컨설턴트로&#8230; 좋거나 혹은 나쁘거나'
 layout: post
 ---
-<div id="toc"></div>
+<div id="toc"><b><span style="font-size: large;">차례</span></b></br></div>
 [<img class="aligncenter size-medium wp-image-509" title="Consultant" src="http://w12ard.github.io/wp-content/uploads/2011/07/Consultant-300x226.jpg" alt="" width="300" height="226" />][1]
 
 한국에서 IT 하시는 분들 중 상당수가&#8230; &#8216;평생 개발만 &#8216;하며 살 수 있는 환경을 찾아 이곳 호주에 온다. 나 역시 한국에서 연차가 쌓이면서 자동으로 누군가의 사수가 되고 리더 역할을 수행해야 하게 됐을때, 기쁘면서도 한편으론 적지 않이 부담스러웠다. 이유는 그 역할을 수행할 아무런 교육도 받은 적 없고, 능력도 안되는데 선택의 여지없이 그냥 떠 맡아야 했기 때문이다.

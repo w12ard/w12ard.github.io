@@ -2,7 +2,7 @@
 title: 회사를 옮기다 - 휴식이 필요해
 layout: post
 ---
-<div id="toc"></div>
+<div id="toc"><b><span style="font-size: large;">차례</span></b></br></div>
 
 ### Not challenged enough
 

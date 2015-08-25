@@ -2,7 +2,7 @@
 title: 취미 생활의 변화
 layout: post
 ---
-<div id="toc"></div>
+<div id="toc"><b><span style="font-size: large;">차례</span></b></br></div>
 
 간만의 포스팅인데 오늘은 모처럼 가볍게~ 시드니에 살면서 다양해진 저의 취미 생활 몇 가지를 소개해 볼까 합니다.
 

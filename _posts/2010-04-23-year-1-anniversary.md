@@ -2,7 +2,7 @@
 title: '시드니 정착, 벌써 1년&#8230;'
 layout: post
 ---
-<div id="toc"></div>
+<div id="toc"><b><span style="font-size: large;">차례</span></b></br></div>
 <img src="http://w12ard.github.io/wp-content/uploads/1/cfile24.uf.176906044BD18C8F582FC9.jpg" width="824" height="618" alt="" filename="cfile24.uf.176906044BD18C8F582FC9.jpg" filemime="" />
 내가 사랑하는 점심 산책 코스. 옵저버토리.
  

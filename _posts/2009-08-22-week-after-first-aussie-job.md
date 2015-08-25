@@ -2,7 +2,7 @@
 title: 호주 첫 직장, 출근후 한 주간 정리
 layout: post
 ---
-<div id="toc"></div>
+<div id="toc"><b><span style="font-size: large;">차례</span></b></br></div>
 
 ### 첫째날(월요일) ###
   

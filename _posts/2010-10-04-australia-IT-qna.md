@@ -2,7 +2,7 @@
 title: '호주 IT 기술 이민 생활 Q&#038;A 정리'
 layout: post
 ---
-<div id="toc"></div>
+<div id="toc"><b><span style="font-size: large;">차례</span></b></br></div>
 
 꽤 오랫동안 블로그를 쉬었다. 백만년 만인가? 너무 오랜만이라 약간의 변명 정도는 필요할듯 싶다. 
 

@@ -2,7 +2,7 @@
 title: 호주 IT 직장 문화
 layout: post
 ---
-<div id="toc"></div>
+<div id="toc"><b><span style="font-size: large;">차례</span></b></br></div>
 <img src="http://w12ard.github.io/wp-content/uploads/1/cfile6.uf.14474D0C4AE2CDE5488CD0.jpg" width="470" height="313" alt="" filename="cfile6.uf.14474D0C4AE2CDE5488CD0.jpg" filemime="" />
   
 어느덧 지금의 호주 직장에 다니기 시작한지 3달을 다 채워가고 있다. 회사도 나도 Permanent 로 재계약하자는데 동의했고, Contractor 로 있었던 3달을 Probation 기간이었던 셈 치기로 했으니 이제야 맘놓고 좀 게을러질 수 있을 듯 하다. ㅎㅎㅎ 기념으로 그동안 느낀 한국 직장과의 차이점을 정리해봤다. 주의. 아직 온지 얼마 안돼 시야가 좁으니 감안하자. 
