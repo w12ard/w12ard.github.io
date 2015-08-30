@@ -15,4 +15,5 @@ layout: post
 
 다음은 저를 결정적으로 SUP 의 세계로 이끈 동영상인데요. 제가 사는 곳에서도 가까운 메탐스풀에서 SUP 를 타고 파도 타는 영상입니다. 저는 언제나 저렇게 탈수 있을까요? ㅠㅠ 여름오기전에 빡시게 연습해둬야겠습니다.
 
-<iframe src="https://www.youtube.com/embed/O_nkF4wuH_A" width="560px" height="315px" frameborder="0" scrolling="no" allowfullscreen=""></iframe><div><br></div><div><span style="font-family: Arial, Helvetica, sans-serif; font-size: 13.9200000762939px; line-height: 22.2719993591309px; background-color: rgb(255, 255, 255);">
+<center>
+<iframe src="https://www.youtube.com/embed/O_nkF4wuH_A" width="560px" height="315px" frameborder="0" scrolling="no" allowfullscreen=""></iframe><div><br></div><div><span style="font-family: Arial, Helvetica, sans-serif; font-size: 13.9200000762939px; line-height: 22.2719993591309px; background-color: rgb(255, 255, 255);"></center>
