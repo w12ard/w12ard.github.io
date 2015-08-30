@@ -22,7 +22,9 @@ layout: post
 
 아침에 칼바리에서 출발할때 기름값이 비싸길래..(리터당 1.54불) 기름도 아직 반 이상 남았고, 중간에 넣자 생각하고 그냥 출발했습니다. 칼바리까지 오는 동안에는 적어도 한시간에 한번씩은 주유소가 있었거든요. 그런데 왠걸? 출발한지 한시간 반이 다 되어가도록 주유소는 나오지 않았습니다. 
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z3nkmnyFEDc" frameborder="0" allowfullscreen></iframe>
+</center>
 
 이런 길이 계속 반복되고, 주유소가 있을만한 징후는 없고, 비는 내리기 시작합니다. 아차 싶었죠. 지금이라도 다시 차를 되돌려야 하나 고민이 됐습니다. 
 
@@ -30,7 +32,9 @@ layout: post
 
 ### 빌라봉 로드하우스
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r-oghjJKaqw" frameborder="0" allowfullscreen></iframe>
+</center>
 
 그 때 나타난 빌라봉 로드하우스는 정말 사막을 걷다 발견한 오아시스같았습니다. 시설도 갠찮고, 숙박도 가능 하더군요. 조마조마했던 엄마, 아빠 마음은 모르고 아이들은 차에서 내리자 마냥 신이 났습니다. 
 
