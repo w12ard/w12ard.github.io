@@ -3,7 +3,7 @@ title: '서호주의 보물 &#8211; Abalone'
 layout: post
 ---
 <p style="text-align: center;">
-  <a href="http://w12ard.github.io/wp-content/uploads/2013/11/전복1.jpg"><img class="aligncenter  wp-image-684" alt="전복1" src="http://w12ard.github.io/wp-content/uploads/2013/11/전복1.jpg" width="574" height="768" /></a>
+  <a href="http://w12ard.github.io/wp-content/uploads/2013/11/abalone1.jpg"><img class="aligncenter  wp-image-684" alt="abalone1" src="http://w12ard.github.io/wp-content/uploads/2013/11/abalone1.jpg" width="574" height="768" /></a>
 </p>
 
 내 맘대로 정하는 서호주의 보물 시리즈 두번째, Abalone(‘아발론’아닙니다 아발로니’라고 읽습니다), 전복입니다.
@@ -17,7 +17,7 @@ http://www.fish.wa.gov.au/Species/Abalone/Pages/Abalone-Recreational-Fishing.asp
 따라서 서호주 수산청은 법령을 정해 fishing zone 에 따라 Abalone 채취를 허가하는 기간을 정해두고 있습니다. 교통 위반 벌금과 달리 수산물 채취 위반시 벌금은 최하가 몇백불에서 몇만불까지 물어내는 경우도 있습니다. 위 링크 잘 읽어보시고, 법이 허용하는 한도에서 온 가족이 잘 즐기시길 바랍니다 ^^
 
 <p style="text-align: center;">
-  <a href="http://w12ard.github.io/wp-content/uploads/2013/11/전복2.jpg"><img class="aligncenter  wp-image-685" alt="전복2" src="http://w12ard.github.io/wp-content/uploads/2013/11/전복2.jpg" width="573" height="768" /></a>
+  <a href="http://w12ard.github.io/wp-content/uploads/2013/11/abalone2.jpg"><img class="aligncenter  wp-image-685" alt="abalone2" src="http://w12ard.github.io/wp-content/uploads/2013/11/abalone2.jpg" width="573" height="768" /></a>
 </p>
 
 퍼스 근교인 West Coast zone 에서 Abalone 채취 가능 시간은 아래와 같습니다. 놓치지 말세요~
