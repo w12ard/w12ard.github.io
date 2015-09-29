@@ -1,11 +1,11 @@
 ---
-title: 뇌졸증 이후엔 자신감이 안생겨.. - 마가렛 할머니
+title: 뇌졸증 이후엔 자신감이 안생겨.. - 마가렛
 layout: post
 ---
 <div class='pixels-photo'>
   <center><p>
     <img src='https://drscdn.500px.org/photo/11678337/m%3D900/e3e3de8deb0db2c3febd99a42469b3d4' alt='Sisse VI by Søren Udby on 500px.com'>
-  </p>하지만, 새롭게 뭔가 배우기에 너무 늙진 않았어 - 마가렛</center>
+  </p></center>
   <a href='https://500px.com/photo/11678337/sisse-vi-by-s%C3%B8ren-udby' alt='Sisse VI by Søren Udby on 500px.com'></a> 
 </div>
 
