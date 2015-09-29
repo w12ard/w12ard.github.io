@@ -4,10 +4,11 @@ layout: post
 ---
 <div class='pixels-photo'>
   <center><p>
-    <img src='https://drscdn.500px.org/photo/11678337/m%3D900/e3e3de8deb0db2c3febd99a42469b3d4' alt='Sisse VI by Søren Udby on 500px.com'>
+    <img src='https://drscdn.500px.org/photo/74812315/m%3D900/8b725a6410f6b2231faad95ede84393e' alt='"Five o'clock" by Livia Corcoveanu on 500px.com'>
   </p></center>
-  <a href='https://500px.com/photo/11678337/sisse-vi-by-s%C3%B8ren-udby' alt='Sisse VI by Søren Udby on 500px.com'></a> 
+  <a href='https://500px.com/photo/74812315/-five-o-clock-by-livia-corcoveanu' alt='"Five o'clock" by Livia Corcoveanu on 500px.com'></a>
 </div>
+<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 첫 직장 동료였던 L이 뇌졸증을 앓고 나서 실명했다는 소식을 들은건 이십대 초반에 제가 그 회사를 나오면서 헤어진후 5년인가 흘렀던 때였습니다. 너무나 비현실적으로 들리고, 믿기지 않아서.. 또 너무나 달라진 그의 모습을 확인하는게 두려워서.. 가지 않았습니다. 갈 수 없었습니다. 그리고 몇년이 또 흘러.. 이젠 그가 세상에 없다는 소식을 들었습니다. 저는 영영 그에게 인사를 건낼 기회를 잃고 말았습니다. 그제서야 후회가 밀려왔습니다. 
 
