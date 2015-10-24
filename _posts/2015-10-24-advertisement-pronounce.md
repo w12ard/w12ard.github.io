@@ -23,3 +23,16 @@ layout: post
 유툽 코멘트 읽어보시면 호주도 advertisement 를 영국식으로 발음한다고 주장하는 사람이 있습니다. 따지고 보면 이 단어뿐 아니라 호주 영어는 영국 영어와 미국 영어가 뒤섞인 경우가 많죠. 사회 문화적으로 많은 부분에서 영국식 전통을 고수하는데 젊은 세대로 갈수록 미국 문화와 방송을 더 많이 접하다 보니 점점 더 미국식 영어가 받아들여지는 추세라고 합니다. 
 
 이미 세계의 언어가 되어버린 영어의 발음이 다른 나라에서 사용되면서 그 나라 문화나 특성에 맞게 변형되는 것은 자연스런 일인거 같습니다. 하지만 본고장인 영국 사람이 변형된 영어를 접하고 느끼는 당황스러움도 이해가 갑니다. 
+
+<center><iframe width="420" height="315" src="https://www.youtube.com/embed/reghyn9fmJQ" frameborder="0" allowfullscreen></iframe></center>
+
+	It takes a man to suffer ignorance and smile
+	Be yourself no matter what they say...
+
+	Who ooh,
+	I'm an alien
+	I'm a legal alien
+	
+	Sting <Englishman in New York>
+
+이 노래 가사가 오늘따라 귀에 찰싹 붙네요. 
