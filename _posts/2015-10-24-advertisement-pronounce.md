@@ -24,15 +24,20 @@ layout: post
 
 이미 세계의 언어가 되어버린 영어의 발음이 다른 나라에서 사용되면서 그 나라 문화나 특성에 맞게 변형되는 것은 자연스런 일인거 같습니다. 하지만 본고장인 영국 사람이 변형된 영어를 접하고 느끼는 당황스러움도 이해가 갑니다. 
 
+아시안 이민자로서 생각해볼 거리가 되는 거 같습니다. '다름'을 이해하면서도 '자신'의 정체성을 갖는게 중요한거 같아요. 
+
 <center><iframe width="420" height="315" src="https://www.youtube.com/embed/reghyn9fmJQ" frameborder="0" allowfullscreen></iframe></center>
 
 	It takes a man to suffer ignorance and smile
+	냉대를 이겨내고 미소짓는게 진짜 사내에요
 	Be yourself no matter what they say...
+	남들이 뭐라 하건 본인 자신이 되세요...
 
-	Who ooh,
-	I'm an alien
-	I'm a legal alien
-	
+	I'm an alien I'm a legal alien
+	나는야 외국인 합법 체류자에요
+	I'm an Englishman in New York
+	나는 뉴욕에 사는 영국 남자랍니다
+
 	Sting <Englishman in New York>
 
 이 노래 가사가 오늘따라 귀에 찰싹 붙네요. 
