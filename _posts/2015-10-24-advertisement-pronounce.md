@@ -1,6 +1,6 @@
 ---
-title: 
-layout: 한 단어로 보는 영국/미국/호주 영어 발음의 차이 - Advertisement
+title: 한 단어로 보는 영국/미국/호주 영어 발음의 차이 - Advertisement
+layout: post
 ---
 
 전에 언급한바와 같이 저는 요즘 89세 영국 할머니, [마가렛](http://blog.ahkim.com/dear-margaret.html)에게 테블릿을 가르쳐드리고 있습니다. 자원 봉사 차원에서 시작했지만 실은 거꾸로 배우는 게 더 많습니다.  
