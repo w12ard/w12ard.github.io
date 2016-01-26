@@ -4,13 +4,13 @@ layout: post
 ---
 <div id="toc"><b><span style="font-size: large;">차례</span></b></br></div>
 
-## United States of Australia
+### United States of Australia
 
 <center>![](http://cdn.newsapi.com.au/image/v1/ee4af982ef4503827df5417233d37797?width=650)</center>
 
 호주 국기 왼쪽 위엔 영국 국기가 자리잡고 있습니다. 시민권 테스트를 보신 분들은 아시겠지만.. 호주의 현재 Head of State, 수장은 영국 여왕 엘리자베스 2세입니다. 
 
-###Who is Australia’s Head of State?
+**Who is Australia’s Head of State?**
 
 > Australia’s Head of State is the Queen of Australia, Her Majesty Queen Elizabeth II.
 > 
@@ -26,7 +26,7 @@ layout: post
 
 재미있는 것은 서호주 수상, 콜린 바넷만 사인을 거부했는데 이또한 완전한 거부는 아니고, 지금의 영국 여왕인 엘리자베스 2세가 죽기전엔 동의할수 없다고 한것입니다. 왜 콜린 바넷만 이런 반대 표시를 하는지 해석이 나오고 있는데 이게 재미있습니다. 첫째는 아직 보수적인 색채가 짙은 서호주 사람들의 표를 의식해서다 그리고 둘째는 이제 곧 개장을 앞둔 퍼스의 상징적인 프로젝트 'Elizabeth Quay' 의 개장을 앞두고 그 성공에 부정적인 영향이 미칠것을 의식한 것이다라는 해석입니다. 
 
-## Why Elizabeth Quay?
+### Why Elizabeth Quay?
 
 아마 동부쪽에 살고 계신분들에겐 생소한 이름이겠지만.. Elizabeth Quay 는 서호주 주도인 퍼스의 상징적인 Waterfront 사업입니다. 시드니에 Darling Harbour 가 있는 것처럼, 퍼스엔 Elizabeth Quay 가 있다고 생각하시면 됩니다(앞으로 그렇게 되리라는 포부, 아직 공사중).  
 
@@ -44,7 +44,7 @@ layout: post
 
 이렇게 힘든 고난을 뚫고, 영국 여왕의 이름을 딴 프로젝트를 야심차게 진행중인데 갑자기 공화국이 되어버리면 그 성공을 점칠수 없게 된달까, 동기를 잃는달까.. 뭐 이런 해석입니다. 
 
-## 드디어 개장
+### 드디어 개장
 
 이름이야 어찌됐든 시드니 있을때 달링하버 근처 직장에 다니면서 점심 시간이면 도시락 들고 가서 까먹는 재미를 잊을수 없는 저는 이 프로젝트의 성공을 기원하고 있습니다. 지금 직장은 엘리자베스 키 바로 맞은 편에 있는데도 강가에 가서 도시락 까먹을 운치가 안납니다. 그냥 강변을 따라 자전거 도로가 있을뿐, 레스토랑이니, 편의 시설이니 하는 것들이 아직 없거든요. 
 
