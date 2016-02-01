@@ -52,7 +52,7 @@ layout: post
 
 사무실에서 내려다본 Elizabeth Quay 의 공사 현장입니다. 
 
-![](http://i.imgur.com/dpZJEqM.jpg)
+<center>![](http://i.imgur.com/dpZJEqM.jpg)</center>
 
 보시다시피, 아직 일부 사이트의 완공은 아직 멀었습니다. 여기에 사옥을 짓겠다고 했던 Cheveron 이 공사 시작을 2년 늦췄거든요.
 
@@ -61,3 +61,7 @@ layout: post
 하지만, 오늘 있을 Australia Day 행사를 위해서 분주히 준비를 하고 있고, Elizabeth Quay 의 공식적인 개장 행사는 고작 사흘후, 29일에 있을 예정입니다. 자세한 행사 예정은 링크를 참조하시기 바랍니다. 
 
 [How Perth’s Elizabeth Quay will officially open to the public](http://www.perthnow.com.au/news/western-australia/how-perths-elizabeth-quay-will-officially-open-to-the-public/news-story/fb3dd3d57bbd3a8f37149cadd94889cc#load-story-comments)
+
+- Australian Day Event 참여후 사진 추가 
+
+<center>![](http://i.imgur.com/QEx3FET.jpg)</center>
