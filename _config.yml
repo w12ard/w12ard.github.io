@@ -1,5 +1,4 @@
 # Dependencies
-markdown:         redcarpet
 highlighter:      rouge
 
 # Use of `relative_permalinks` ensures post links from the index work properly.
