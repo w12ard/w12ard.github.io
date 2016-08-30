@@ -4,7 +4,6 @@ highlighter:      pygments
 
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           none
-relative_permalinks: true
 
 # Setup
 title:               Aaron H. Kim
